@@ -1,0 +1,6 @@
+[submodule "PortfolioCard"]
+	path = PortfolioCard
+	url = https://github.com/Ron766543/-react-essentials-assignment1
+[submodule "zmovies-database"]
+	path = zmovies-database
+	url = https://github.com/Ron766543/react-essentials-assignment2.git
